@@ -79,6 +79,8 @@
     - 기획의도 : 우편 및 택배를 보낼 떄 수신자의 정보를 연락처에서 검색하여 폼을 구성한 후 해당정보로 QR코드를 생성 및 저장하여 관리할 수 있도록 함
     - 배운점 : IAP 연동 과정 및 구현 방법을 익힐 수 있었음, 연락처동기화 과정에서 연락처 로드, 업로드, UI변경 등을 비동기로 처리하면서 많은 공부가 되었음
 
+- M-TAG : 제품 정품 확인 및 이벤트 공지 어플리케이션
+
 ## ** 프로젝트(개인공부 + 교육) **
 - SAMEUS : 대학생 커뮤니티
     - 기간 : 2017.12 ~ 2017.12
@@ -89,7 +91,7 @@
     - 배운점 : APNS로 사용자 그룹별 푸쉬 알림을 다르게 보내기 위해 DB에 토큰 저장 및 그룹관리를 하는 방법을 생각해볼 수 있었음. 
     - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화되서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
 
-<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
 
 - Edy : 내 사진을 판매해보자!
     - 장소 : Harbor School&willoughby - https://web.facebook.com/harbor.sch
