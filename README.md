@@ -70,6 +70,9 @@
     - 기획의도 : 유저의 정보 분석 및 선호도, 직업 등을 토대로 상대방을 매칭시켜주는 기능을 수행하도록 함
     - 배운점 : IAP 연동 과정 및 구현 방법을 익힐 수 있었음, 연락처동기화 과정에서 연락처 로드, 업로드, UI변경 등을 비동기로 처리하면서 많은 공부가 되었음
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/luvgrade/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/luvgrade/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/luvgrade/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/luvgrade/4.png" width="125px" height="222px"/>
+
+
 - 탱크잔량 : 매장별 가스 잔량 모니터링 어플리케이션
     - 의뢰처 : 개인
     - 기간 : 2018.06 ~ 2018.08
