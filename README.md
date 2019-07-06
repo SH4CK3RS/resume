@@ -101,7 +101,7 @@
     - 배운점 : APNS로 사용자 그룹별 푸쉬 알림을 다르게 보내기 위해 DB에 토큰 저장 및 그룹관리를 하는 방법을 생각해볼 수 있었음. 
     - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화되서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/4.png" width="125px" height="222px"/>
 
 - Edy : 내 사진을 판매해보자!
     - 장소 : Harbor School&willoughby - https://web.facebook.com/harbor.sch
@@ -114,6 +114,10 @@
     - 배운점 : 첫 협업 작업으로 SourceTree를 이용한 코드 버전 관리 및 협업에 대하여 배울 수 있었음. Zeplin을 통해 디자인 가이드를 받아 작업하는 방법도 익힐 수 있었음
     - 아쉬운점 : 개발기간 및 협업자와의 시간 조율이 많이 아쉬웠음(모두 직장인이라 해커톤 이후로 모이기가 어려웠음)
     
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
+
+
 - 중고책 거래 서비스 : 온라인으로 내 책을 판매해보자!
     - 대상 : 대학생 멘토링
     - 기간 : 2017.10 ~ 2017.10
@@ -132,6 +136,10 @@
     - 기획의도 : 10x10 바둑판형태로 버튼을 구성하고 단계에따라 정사각 또는 랜덤 위치로 개구리를 위치시켜 그 중 다른 개구리를 찾는 게임
     - 배운점 : Interface Builder로 한 화면에 너무 많은 컴포넌트를 넣으면 많이 버벅거림. IBOutletCollection을 활용해서 다중 IBOutlet을 다룰 수 
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/4.png" width="125px" height="222px"/>
+
+
 - 드론 관제 시스템 : 드론 이상행위 탐지 및 센서 데이터 수집
     - 대상 : 대학원 프로젝트 및 학부 동아리 교육
     - 기간 : 2018.05 ~ 2018.06
@@ -140,3 +148,7 @@
     - 담당업무 : 기획, 설계, 개발, 시연
     - 기획의도 : 디바이스의 군집 행위에 대한 오류 및 침해의 발견과 대응을 위하여 디바이스 진단용 에이전트 소프트웨어와 군집 디바이스의 중앙 관제를 위한 서버 소프트웨어를 개발
     - 배운점 : 기간이 짧았던 프로젝트여서 서버단의 코드가 너무 한 파일에 몰렸던 점, 모듈화가 부족했던 점 등이 아쉬웠음. WEB Frone 설계도 많이 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Watch the video](https://img.youtube.com/vi/SZ45AbYHRPs/hqdefault.jpg)](https://youtu.be/SZ45AbYHRPs)
+
