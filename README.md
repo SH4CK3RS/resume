@@ -150,7 +150,7 @@
     - 사용도구 : Arduino, Drone, 센서(GPS, 지자계, 가속도, 초음파 등), udp(센서 데이터 수신),bootstrap&express(Web Front&Back End), AJAX, mysql
     - 담당업무 : 기획, 설계, 개발, 시연
     - 기획의도 : 디바이스의 군집 행위에 대한 오류 및 침해의 발견과 대응을 위하여 디바이스 진단용 에이전트 소프트웨어와 군집 디바이스의 중앙 관제를 위한 서버 소프트웨어를 개발
-    - 배운점 : 기간이 짧았던 프로젝트여서 서버단의 코드가 너무 한 파일에 몰렸던 점, 모듈화가 부족했던 점 등이 아쉬웠음. WEB Frone 설계도 많이 
+    - 배운점 : 기간이 짧았던 프로젝트여서 서버단의 코드가 너무 한 파일에 몰렸던 점, 모듈화가 부족했던 점 등이 아쉬웠음. WEB Frone 설계도 많이 어려움
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Watch the video](https://img.youtube.com/vi/SZ45AbYHRPs/hqdefault.jpg)](https://youtu.be/SZ45AbYHRPs)
