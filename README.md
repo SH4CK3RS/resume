@@ -89,7 +89,7 @@
     - 배운점 : APNS로 사용자 그룹별 푸쉬 알림을 다르게 보내기 위해 DB에 토큰 저장 및 그룹관리를 하는 방법을 생각해볼 수 있었음. 
     - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화되서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
 
-![1](./Images/sameus/1.png | width=100) ![2](./Images/sameus/2.jpg | width=100) ![3](./Images/sameus/3.jpg | width=100) ![4](./Images/sameus/4.jpg | width=100) ![5](./Images/sameus/5.jpg | width=100)
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
 
 - Edy : 내 사진을 판매해보자!
     - 장소 : Harbor School&willoughby - https://web.facebook.com/harbor.sch
