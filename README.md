@@ -78,8 +78,17 @@
     - 담당업무 : 디자인 수정, 웹뷰 삽입, 기능 업데이트 및 설정별 Delegate, Notification 연동
     - 기획의도 : 우편 및 택배를 보낼 떄 수신자의 정보를 연락처에서 검색하여 폼을 구성한 후 해당정보로 QR코드를 생성 및 저장하여 관리할 수 있도록 함
     - 배운점 : IAP 연동 과정 및 구현 방법을 익힐 수 있었음, 연락처동기화 과정에서 연락처 로드, 업로드, UI변경 등을 비동기로 처리하면서 많은 공부가 되었음
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/4.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/5.png" width="125px" height="222px"/>
 
 - M-TAG : 제품 정품 확인 및 이벤트 공지 어플리케이션
+    - 의뢰처 : NANO BRICK inc.
+    - 기간 : 2018.08 ~ 2018.10
+    - 사용언어 : Objective C, Swift
+    - 사용기술 및 도구 : UserDefaults, CryptoSwift, AVCaptureSession,AVMetadataObjectTypeQRCode
+    - 담당업무 : 디자인 수정, UIWebView를 WKWebView로 수정, Objective C 소스를 Swift로 포팅, SafeArea 대응
+    - 기획의도 : 고객이 제품을 구매한 후 해당 제품 등록시 사용하는 시리얼 넘버를 이용하여 정상, 비정상 여부 판별 및 이벤트 공지
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/mtag/1.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/mtag/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/mtag/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/mtag/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/mtag/5.jpg" width="125px" height="222px"/>
 
 ## ** 프로젝트(개인공부 + 교육) **
 - SAMEUS : 대학생 커뮤니티
