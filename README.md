@@ -137,7 +137,7 @@
     - 사용도구 : NSTimer,AutoLayout,UIStackView
     - 담당업무 : 기획, 설계, 개발
     - 기획의도 : 10x10 바둑판형태로 버튼을 구성하고 단계에따라 정사각 또는 랜덤 위치로 개구리를 위치시켜 그 중 다른 개구리를 찾는 게임
-    - 배운점 : Interface Builder로 한 화면에 너무 많은 컴포넌트를 넣으면 많이 버벅거림. IBOutletCollection을 활용해서 다중 IBOutlet을 다룰 수 
+    - 배운점 : Interface Builder로 한 화면에 너무 많은 컴포넌트를 넣으면 많이 버벅거림. IBOutletCollection을 활용해서 다중 IBOutlet을 다룰 수 있음
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/game/4.png" width="125px" height="222px"/>
