@@ -78,6 +78,7 @@
     - 담당업무 : 디자인 수정, 웹뷰 삽입, 기능 업데이트 및 설정별 Delegate, Notification 연동
     - 기획의도 : 우편 및 택배를 보낼 떄 수신자의 정보를 연락처에서 검색하여 폼을 구성한 후 해당정보로 QR코드를 생성 및 저장하여 관리할 수 있도록 함
     - 배운점 : IAP 연동 과정 및 구현 방법을 익힐 수 있었음, 연락처동기화 과정에서 연락처 로드, 업로드, UI변경 등을 비동기로 처리하면서 많은 공부가 되었음
+    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/4.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/5.png" width="125px" height="222px"/>
 
 - M-TAG : 제품 정품 확인 및 이벤트 공지 어플리케이션
