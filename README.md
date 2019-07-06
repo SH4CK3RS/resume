@@ -4,9 +4,6 @@
 
 
 - Mail : ios@sch.ac.kr
-- 블로그 : https://blog.naver.com/taerg89
-- Github: https://github.com/jeehge
-
 
 
 ## 학력
