@@ -104,7 +104,7 @@
     - 배운점 : APNS로 사용자 그룹별 푸쉬 알림을 다르게 보내기 위해 DB에 토큰 저장 및 그룹관리를 하는 방법을 생각해볼 수 있었음. 
     - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화되서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/4.png" width="125px" height="222px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
 
 - Edy : 내 사진을 판매해보자!
     - 장소 : Harbor School&willoughby - https://web.facebook.com/harbor.sch
@@ -117,8 +117,7 @@
     - 배운점 : 첫 협업 작업으로 SourceTree를 이용한 코드 버전 관리 및 협업에 대하여 배울 수 있었음. Zeplin을 통해 디자인 가이드를 받아 작업하는 방법도 익힐 수 있었음
     - 아쉬운점 : 개발기간 및 협업자와의 시간 조율이 많이 아쉬웠음(모두 직장인이라 해커톤 이후로 모이기가 어려웠음)
     
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/edy/4.png" width="125px" height="222px"/>
 
 
 - 중고책 거래 서비스 : 온라인으로 내 책을 판매해보자!
