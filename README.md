@@ -163,3 +163,12 @@
     - 기획의도 : 시민들이 주차 가능 공간과 원하는 주차장 정보를 검색하여 실시간으로 파악하게 함으로써 불법 주정차 문제를 완화하고 시민 불편을 해소하기 위해‘서울 주차장’앱을 개발
     - 배운점 : RxSwift를 부분 도입한 첫 프로젝트이나 bind기능을 잘 활용하지 못하지 않았던 것 같음. StoryBoard를 전혀 사용하지 않은 Code-Based 파로젝트로 SnapKit의 활용도가 아주 높았음. 기존 Delegate 패턴을 사용하다가 Notification을 적용시 상황에 따라 더 효율이 좋고 관리도 편하다는 것을 느낀 프로젝트. 처음으로 학과 후배들과 진행해보는 공개 프로젝트여서 더 의미가 큰 프로젝트. UIPageViewController를 커스텀해서 탭뷰를 적용한 페이지 뷰 컨트롤러를 만들어보면서 클래스 상속에 대해 좀더 깊게 공부할 수 있었으며, Developer Documentation이 아주 잘 되어있다는걸 다시한번 느낌. BackEnd와 iOS를 동시에 개발하는 부분이 좀 부담스럽긴 했지만 Moya, SnapKit을 처음 도입해보면서 실 예제를 직접 제작하고 적용해보는게 새로운 기능을 배우는데 많이 도움이 된다고 느낌. 최근 배운 ElasticSearch와 DB를 연동하는 프로젝트도 진행해보고싶음. 
     
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/1.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/2.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/3.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/4.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/5.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/6.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/7.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/8.png"/>
+<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/seoulParking/9.png"/>
