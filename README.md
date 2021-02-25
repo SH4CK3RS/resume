@@ -3,7 +3,7 @@
 
 
 
-- Mail : ios@sch.ac.kr
+- Mail : app_dev@kakao.com
 
 
 ## 학력
@@ -14,48 +14,58 @@
 
 ## 경력
 
-- 2020.02 ~ 현재 머지홀딩스 
-
+- 2020.02 ~ 2020.12 머지홀딩스 
+- 2021.01 ~ 현재 머지플러스
 
 ## 보유기술
 
 - Language
-    Swift, Objective-C, nodejs 
+    Swift, Objective-C 
 
 - Tool
-    TestFlight, fabric, Sourcetree, express, MySQL, Firebase
+    Xcode, Firebase, TestFlight, express, MySQL, GitKraken, SourceTree
 
 - 형상관리
     Git, SVN
     
 - 디자인패턴
-    기존 MVC 패턴을 주로 사용하였으나, Swift Clean Architecture(VIP)로 전환중
+    Swift Clean Architecture(VIP)
 
     
 ## 활용 기술
 
 
 - RESTful API
-- json, xml parse
 - AutoLayout, xib, Code based UI
 - APNS, Local Notification
+- Custom Layout
 
 
 
 ## 활용 오픈소스
 
-
 - Alamofire
+- Moya
 - SwiftyJSON
 - Firebase
 - ObjectMapper
 - SnapKit
 - Then
+- SDWebImage
+- NMapsMap
+- SwiftLint
+- IQKeyboardManagerSwift
 
 
 ## ** 교육 **
 
 - 2016.02.15~2016.02.19 생활코딩 작심 5일 수업(미림여자정보고등학교) - 조교
+
+## ** 동아리 활동 **
+
+- 2020.02 ~ 2020.07 Yapp 16기 iOS 클라이언트 개발 [곳감 - AppStore](https://apps.apple.com/kr/app/%EA%B3%B3%EA%B0%90/id1513562174) | [곳감 - Github](https://github.com/YAPP-16th/Team_iOS_1_Client)
+- 2020.08 ~ 2020.12 Yapp 17기 iOS 클라이언트 개발 [유니플로거 - AppStore](https://apps.apple.com/kr/app/id1543589972) | [유니플로거 - Github](https://github.com/Yapp-17th/iOS_2_Client)
+- 2021.02 ~ 현재 Yapp 18기 운영진(iOS Tech Lead)
 
 ## ** 수상 **
 
