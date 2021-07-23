@@ -15,7 +15,7 @@
 ## 경력
 
 - 2020.02 ~ 2020.12 머지홀딩스 
-- 2021.01 ~ 현재 머지플러스
+- 2021.01 ~ 2021.06 머지플러스
 
 ## 보유기술
 
@@ -23,17 +23,17 @@
     Swift, Objective-C 
 
 - Tool
-    Xcode, Firebase, TestFlight, express, MySQL, GitKraken, SourceTree
+    Xcode, TestFlight, GitKraken, SourceTree, MeisterTask
 
 - 형상관리
     Git, SVN
     
 - 디자인패턴
     Swift Clean Architecture(VIP)
+    MVVM
 
     
 ## 활용 기술
-
 
 - RESTful API
 - AutoLayout, xib, Code based UI
@@ -42,7 +42,7 @@
 
 
 
-## 활용 오픈소스
+## 활용 라이브러리
 
 - Alamofire
 - Moya
@@ -55,6 +55,7 @@
 - NMapsMap
 - SwiftLint
 - IQKeyboardManagerSwift
+- RxSwift
 
 
 ## ** 교육 **
