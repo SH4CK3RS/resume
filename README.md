@@ -1,5 +1,5 @@
 
-# Byeonggeun Son 
+# Byeonggeun Son(Ever)
 
 
 
@@ -16,42 +16,42 @@
 
 - 2020.02 ~ 2020.12 머지홀딩스 
 - 2021.01 ~ 2021.06 머지플러스
+- 2021.10 ~ 2022.01 카카오
+- 2022.07 ~ 카카오뱅크
 
 ## 보유기술
 
 - Language
-    Swift, Objective-C 
+    Swift, Objective-C, C, JavaScript
 
 - Tool
-    Xcode, TestFlight, GitKraken, SourceTree, MeisterTask
+    Xcode, Fork, GitKraken, Visual Studio Code
 
 - 형상관리
-    Git, SVN
+    Git
     
-- 디자인패턴
-    Swift Clean Architecture(VIP)
+- 아키텍쳐
+    Swift Swift(VIP)
     MVVM
+    RIBs
 
     
 ## 활용 기술
 
 - RESTful API
-- AutoLayout, xib, Code based UI
+- AutoLayout, Storyboard, XIB, Code based UI
+- Interactive, Non-Interactive Animation
+- Keychain, UserDefaults
 - APNS, Local Notification
-- Custom Layout
-
 
 
 ## 활용 라이브러리
 
 - Alamofire
 - Moya
-- SwiftyJSON
 - Firebase
-- ObjectMapper
 - SnapKit
 - Then
-- SDWebImage
 - NMapsMap
 - SwiftLint
 - IQKeyboardManagerSwift
@@ -66,7 +66,7 @@
 
 - 2020.02 ~ 2020.07 Yapp 16기 iOS 클라이언트 개발 [곳감 - AppStore](https://apps.apple.com/kr/app/%EA%B3%B3%EA%B0%90/id1513562174) | [곳감 - Github](https://github.com/YAPP-16th/Team_iOS_1_Client)
 - 2020.08 ~ 2020.12 Yapp 17기 iOS 클라이언트 개발 [유니플로거 - AppStore](https://apps.apple.com/kr/app/id1543589972) | [유니플로거 - Github](https://github.com/Yapp-17th/iOS_2_Client)
-- 2021.02 ~ 현재 Yapp 18기 운영진(iOS Tech Lead)
+- 2021.02 ~ 2021.06 Yapp 18기 운영진(iOS Tech Lead)
 
 ## ** 수상 **
 
@@ -103,7 +103,7 @@
     - 사용기술 및 도구 : AutoLayout, UserDefaults, REST API
     - 담당업무 : 디자인 수정, 웹뷰 삽입, 기능 업데이트 및 설정별 Delegate, Notification 연동
     - 기획의도 : 우편 및 택배를 보낼 떄 수신자의 정보를 연락처에서 검색하여 폼을 구성한 후 해당정보로 QR코드를 생성 및 저장하여 관리할 수 있도록 함
-    - 배운점 : IAP 연동 과정 및 구현 방법을 익힐 수 있었음, 연락처동기화 과정에서 연락처 로드, 업로드, UI변경 등을 비동기로 처리하면서 많은 공부가 되었음
+    - 배운점 : 여러 뷰에 중첩되어있는 레이아웃 구조를 다룰 수 있는 기회였음
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/2.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/3.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/4.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/tank/5.png" width="125px" height="222px"/>
 
@@ -125,7 +125,7 @@
     - 담당업무 : 개발, 협업
     - 기획의도 : 순천향대학교, 선문대학교, 백석대학교 등 천안/아산 주변 대학으로 시작하여 주변 먹거리, 자취방, 중고장터 등의 서비스를 제공함
     - 배운점 : APNS로 사용자 그룹별 푸쉬 알림을 다르게 보내기 위해 DB에 토큰 저장 및 그룹관리를 하는 방법을 생각해볼 수 있었음. 
-    - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화되서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
+    - 아쉬운점 : WKWebView에서 로그인 유지를 위해 Cookie를 사용하는데 매번 초기화돼서 결국 라이브러리를 사용 나중에 꼭 다시 짚어볼 예정
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/1.png" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/2.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/3.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/4.jpg" width="125px" height="222px"/> <img src="https://raw.githubusercontent.com/SH4CK3RS/resume/master/Images/sameus/5.jpg" width="125px" height="222px"/>
 
@@ -150,7 +150,7 @@
     - 사용도구 : CodeIgniter(PHP 프레임워크), MySQL, URLSession, GCD(Grand Central Dispatch)
     - 담당업무 : 기획, 설계, 개발, 교육
     - 기획의도 : 외부 라이브러리를 사용하지 않고 REST API환경 구축 및 클라이언트 HTTP 통신 과정 구축, 비동기처리
-    - 성과 : 개발 지식일 공유할 수 있는 첫 기회였으며, 필요 이상으로 외부 라이브러리에 의존했던 것에 반성하는 시간이 되었음
+    - 성과 : 개발 지식 공유할 수 있는 첫 기회였으며, 필요 이상으로 외부 라이브러리에 의존했던 것에 반성하는 시간이 되었음
 
 - 개구리 찾기 : 다른 개구리를 찾아라!
     - 대상 : 개인 공부
